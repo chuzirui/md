@@ -26,8 +26,8 @@ interfaces will be attached.
 
 Other information, such as network CIDR, IP allocation strategy, network
 gateway and masquerade behaviour are ignored. More information on CNI
-network configuration can be found in the \[CNI github repo\]
-(<https://github.com/containernetworking/cni>).
+network configuration can be found in the [CNI github repo]
+(https://github.com/containernetworking/cni).
 
 Adding or removing a container
 ------------------------------
