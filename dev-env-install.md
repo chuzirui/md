@@ -8,7 +8,7 @@ straight from source code and will not be executed in containers.
 
 If you are interested in setting up an environment where NCP components
 run in containers please refer to the
-official build install guide &lt;official-build-install&gt;.
+[official build install guide](official-build-install.md)
 
 Deploying NSX infrastructure
 ----------------------------
