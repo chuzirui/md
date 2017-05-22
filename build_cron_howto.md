@@ -52,9 +52,11 @@ instructions. See links 3, 4.
 
 :   p4 submit -c &lt;changelist id returned in previous step&gt;
 
-Helpful Links: 1.
-<https://wiki.eng.vmware.com/SCM/Frequently_Asked_Questions> &lt;-- How
-to use perforce 2.
+Helpful Links: 
+1.
+<https://wiki.eng.vmware.com/SCM/Frequently_Asked_Questions> 
+-- How to use perforce 
+2.
 <https://wiki.eng.vmware.com/Build/RequestOfficialBuilds#Scheduling_a_Recurring_Official_Build>
-3. DBC Account Request: <https://buildweb.eng.vmware.com/dbc/> 4.
-Perforce Account Request: <https://p4user.eng.vmware.com/>
+3. DBC Account Request: <https://buildweb.eng.vmware.com/dbc/> 
+4. Perforce Account Request: <https://p4user.eng.vmware.com/>
