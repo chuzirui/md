@@ -182,8 +182,9 @@ workspace to start a sandbox build with your local commits:
 
 Note, the url of the published deliverables of a sandbox builds is a
 little different form that of an official build. It is like:
-<http://build-squid.eng.vmware.com/build/mts/release/sb->&lt;build\_no&gt;/publish/nsx-ncp-sb-&lt;build\_no&gt;.tar
-<http://build-squid.eng.vmware.com/build/mts/release/sb->&lt;build\_no&gt;/publish/ncp-rc.yml
-<http://build-squid.eng.vmware.com/build/mts/release/sb->&lt;build\_no&gt;/publish/nsx-node-agent-ds.yml
-<http://build-squid.eng.vmware.com/build/mts/release/sb->&lt;build\_no&gt;/publish/nsx-cni-1.0.0.0.0.&lt;build\_no&gt;-1.x86\_64.rpm
-<http://build-squid.eng.vmware.com/build/mts/release/sb->&lt;build\_no&gt;/publish/nsx-cni\_1.0.0.0.0.&lt;build\_no&gt;.deb
+<http://build-squid.eng.vmware.com/build/mts/release/sb-build-no/publish/nsx-ncp-sb-build-no.tar>
+
+<http://build-squid.eng.vmware.com/build/mts/release/sb-&lt;build\_no&gt;/publish/ncp-rc.yml>
+<http://build-squid.eng.vmware.com/build/mts/release/sb-&lt;build\_no&gt;/publish/nsx-node-agent-ds.yml>
+<http://build-squid.eng.vmware.com/build/mts/release/sb-&lt;build\_no&gt;/publish/nsx-cni-1.0.0.0.0.&lt;build\_no&gt;-1.x86\_64.rpm>
+<http://build-squid.eng.vmware.com/build/mts/release/sb-&lt;build\_no&gt;/publish/nsx-cni\_1.0.0.0.0.&lt;build\_no&gt;.deb>
